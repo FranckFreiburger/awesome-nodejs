@@ -222,6 +222,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [module-invalidate](https://github.com/FranckFreiburger/module-invalidate) - Invalidate modules loaded through `require()` and automatically reload them on further access.
 
 
 ## Resources
